@@ -10,5 +10,4 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=000000"/>
 
 ## 💻Tools🔨🦋
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/>
 <a href="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/></a>
